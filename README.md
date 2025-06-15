@@ -25,7 +25,7 @@ This is a simple Python-based network packet sniffer developed using the `scapy`
 
 ```bash
 git clone https://github.com/Pavithra2006Ponnudurai/CodeAlpha_Task1.git
-cd packet-sniffer
+cd CodeAlpha_Task1
 ```
 
 ---
