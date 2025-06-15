@@ -22,7 +22,7 @@ banner = r"""
                                        |___/                      
               Basic Network Packet Sniffer - Kali Linux                 
    
-            AUTHOUR      :   PAVITHRA PONNUDURAI
+            AUTHOR      :   PAVITHRA PONNUDURAI
             CREATED ON   :   15 JUNE 2025
 """
 print(Fore.CYAN + banner + Style.RESET_ALL)
